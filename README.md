@@ -1,4 +1,4 @@
-Atualmente estou aprendendo desenvolvimento mobile.
+
    ## 
  <div>
   <a href="https://github.com/samuellchagas">
